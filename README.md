@@ -11,12 +11,12 @@ Mirrorverse can run on any Webstrates server. To setup your own Webstrates serve
 
 To create an instance of Mirrorverse use the prototype ZIP file using the [HTTP API](https://webstrates.github.io/userguide/http-api.html) of Webstrates. The following link creates a copy on the public [demo.webstrates.net](https://demo.webstrates.net/) server:
 
-> https://demo.webstrates.net/new?prototypeUrl=https://github.com/Webstrates/Mirrorverse/raw/master/prototypes/mirrorverse.zip
+> https://demo.webstrates.net/new?prototypeUrl=https://github.com/Webstrates/Mirrorverse/raw/main/prototypes/mirrorverse.zip
 
 To create a copy on your own server replace the server address with your server:
 
 ```
-https://your-webstrates-server.com/new?prototypeUrl=https://github.com/Webstrates/Mirrorverse/raw/master/prototypes/mirrorverse.zip
+https://your-webstrates-server.com/new?prototypeUrl=https://github.com/Webstrates/Mirrorverse/raw/main/prototypes/mirrorverse.zip
 ```
 
 
